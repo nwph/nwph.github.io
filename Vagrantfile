@@ -4,11 +4,11 @@ Vagrant.configure("2") do |config|
       v.memory = 8192
       v.cpus = 4
     end
-    config.vm.hostname = "tract.local"
+    config.vm.hostname = "northwestpelvic.local"
     config.vm.network "forwarded_port", guest: 4000, host: 4000
     config.vm.network "forwarded_port", guest: 35729, host: 35729
     config.vm.network "private_network", ip: "192.168.33.10"
-    config.vm.synced_folder ".", "/tractio"
+    config.vm.synced_folder ".", "/northwestpelvic"
     config.vm.provision "shell", inline: <<-SHELL
         sudo apt update
         sudo apt upgrade -y
