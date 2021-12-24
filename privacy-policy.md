@@ -1,11 +1,11 @@
 ---
-title: About
-layout: about
-description: About
-bodyClass: page-teams
+title: Privacy Policy
+layout: page
+description: Privacy Policy
+bodyClass: page-basic
 ---
 
-# Meet The Team
+# Something Useful
 
 Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
 
@@ -13,7 +13,7 @@ Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
 
-## Ne verba patulosque numen vix libet
+## More Useful Information
 
 Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
 Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
@@ -31,7 +31,7 @@ dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
 Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
 esse iam feres mortis Plurima.
 
-## Postquam tamen
+## What Should Patients Know
 
 Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
 et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et

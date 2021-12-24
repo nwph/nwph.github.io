@@ -6,12 +6,39 @@ bodyClass: "page-contact"
 
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
     <div class="row justify-content-start">
-        <div class="col-12 col-md-8">
-            <div class="service service-single">
-                <h1 class="title">{{page.title}}</h1>
-                {% include call.html show_button=false %}
-                <div class="content mt-4">{{content}}</div>
-            </div>
+      <div class="col-12">
+        <h1 class="title">{{page.title}}</h1>
+        {% include call.html show_button=true %}
+      </div>
+      
+        <div class="col-12 col-md-6">
+          <div class="content mt-4">{{content}}</div>
         </div>
+        <div class="col-12 col-md-6">
+          <div class="service service-single">
+            <form action="https://formspree.io/f/mwkypezz" method="POST" class="mt-5 mb-5">
+              <div class="form-group">
+                <label for="name">Full Name</label>
+                <input type="text" class="form-control" id="name" name="name" aria-describedby="nameHelp">
+              </div>
+              <div class="form-group">
+                <label for="email">Email Address</label>
+                <input type="email" class="form-control" id="email" name="email" aria-describedby="emailHelp">
+                <small id="emailHelp" class="form-text text-muted">Your private information is confidential and will never be shared with 3rd parties.</small>
+              </div>
+              <div class="form-group">
+                <label for="email">Phone</label>
+                <input type="text" class="form-control" id="phone" name="phone" aria-describedby="phoneHelp">
+              </div>
+              <div class="form-group">
+                <label for="message">Message</label>
+                <textarea class="form-control" id="message" name="message" rows="3"></textarea>
+              </div>
+            <button type="submit">Send Email</button>
+          </form>
+          </div>
+      </div>
     </div>
 </div>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d161751.163439682!2d146.0013644999951!3d-41.122369736080934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xaa7bc8e0282fc899%3A0x8ee1510ad18406dd!2s8%20Gollan%20St%2C%20Ulverstone%20TAS%207315!5e0!3m2!1sen!2sau!4v1640317575910!5m2!1sen!2sau" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" class="d-block"></iframe>

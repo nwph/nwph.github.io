@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: North West Pelvic Health - Tasmania Physiotherapy
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae lacus hendrerit, iaculis justo a, rhoncus nisl. Nam imperdiet vel odio non porttitor.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Pelvic Health Services in Tasmania's North West.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae lacus hendrerit, iaculis justo a, rhoncus nisl. Nam imperdiet vel odio non porttitor.

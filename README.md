@@ -18,8 +18,4 @@ To build the theme.
  
 ```
 bundle exec jekyll build
-<<<<<<< HEAD
 ```
-=======
-```
->>>>>>> 510d64fe81cd4d05ab0bed2178bab515bac38a4f
