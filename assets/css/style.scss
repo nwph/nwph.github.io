@@ -22,9 +22,9 @@ $font-family-base: Helvetica, Arial, sans-serif, -apple-system;
 $font-family-heading: Helvetica, Arial, sans-serif, -apple-system;
 
 // Footer
-$footer-background-color: $primary;
+$footer-background-color: #363636;
 $footer-text-color: $white;
-$sub-footer-background-color: darken($primary, 10%);
+$sub-footer-background-color: #363636;
 $sub-footer-text-color: $white;
 
 // Bootstrap
@@ -41,7 +41,6 @@ $sub-footer-text-color: $white;
 @import "components/type";
 @import "components/header";
 @import "components/footer";
-@import "components/sub-footer";
 @import "components/logo";
 @import "components/main-menu";
 @import "components/main-menu-mobile";

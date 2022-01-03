@@ -1,9 +1,9 @@
 .feature {
   height: 100%;
-  border: 1px solid $white-offset;
+  border: 1px solid $white;
   border-radius: 3px;
   padding: 20px;
-  background-color: #ffffff;
+  background-color: $white;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -19,8 +19,6 @@
   img {
     width: 100%;
     height: auto;
-  }
-  .feature-title {
   }
   .feature-content {
     margin-bottom: 0;

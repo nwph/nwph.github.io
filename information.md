@@ -1,17 +1,9 @@
 ---
 title: Information
+subtitle: Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
 layout: page
 description: Information
-bodyClass: page-basic
 ---
-
-# Something Useful
-
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
-
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
 
 ## More Useful Information
 

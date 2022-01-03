@@ -1,8 +1,9 @@
 ---
-title: "Post-Natal Checks (Including Abdominal Muscles and Pelvic Floor Rehab)"
-date: 2018-11-28T15:15:34+10:00
-featured: true
+title: Post-Natal Checks (Including Abdominal Muscles and Pelvic Floor Rehab)
+subtitle: Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
 weight: 4
+layout: page
+description: Post-Natal Checks (Including Abdominal Muscles and Pelvic Floor Rehab)
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum

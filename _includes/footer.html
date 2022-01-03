@@ -1,4 +1,4 @@
-<div class="strip strip-grey">
+<div class="cta">
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
     <div class="row">
       <div class="col-6 mb-2">
@@ -17,17 +17,23 @@
         <div class="footer-inner">
           <div class="footer-title">
             <a href="{{ site.baseurl }}">
-              <img width="{{ site.logo.desktop_width }}" height="{{ site.logo.desktop_height }}" alt="{{ site.title }}" src="{{ site.logo.footer | relative_url }}" />
+              <img width="{{ site.logo.footer_width }}" height="{{ site.logo.footer_height }}" alt="{{ site.title }}" src="{{ site.logo.footer | relative_url }}" />
             </a>
           </div>
-          <ul>
+          <div>
+            <ul>
             {% assign footermenu = site.data.menus.footer | sort: 'weight'  %}
             {% for item in footermenu %}
             <li class="{% if item.url == page.url %}active{% endif %}">
               <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
             </li>
             {% endfor %}
+            <li class="{% if item.url == page.url %}active{% endif %}">
+              <a href="/privacy-policy">Privacy Policy</a>
+            </li>
           </ul>
+          {% include social.html %}
+          </div>
         </div>
       </div>
     </div>

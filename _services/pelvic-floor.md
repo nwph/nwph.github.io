@@ -1,8 +1,9 @@
 ---
-title: "Pelvic Floor Assessment and Exercise Programs"
-date: 2018-11-18T12:33:46+10:00
-featured: true
+title: Pelvic Floor Assessment and Exercise Programs
+subtitle: Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
 weight: 1
+layout: page
+description: Pelvic Floor Assessment and Exercise Programs
 ---
 
 Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.

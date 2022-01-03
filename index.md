@@ -1,13 +1,6 @@
 ---
 title: North West Pelvic Health - Tasmania Physiotherapy
+subtitle: Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
 layout: home
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae lacus hendrerit, iaculis justo a, rhoncus nisl. Nam imperdiet vel odio non porttitor.
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
-show_call_box: true
+description: North West Pelvic Health - Tasmania Physiotherapy
 ---
-
-# Pelvic Health Services in Tasmania's North West.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae lacus hendrerit, iaculis justo a, rhoncus nisl. Nam imperdiet vel odio non porttitor.

@@ -1,8 +1,9 @@
 ---
-title: "Prolapse Management"
-date: 2018-11-28T15:15:26+10:00
-featured: true
+title: Prolapse Management
+subtitle: Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
 weight: 3
+layout: page
+description: Prolapse Management
 ---
 
 Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia

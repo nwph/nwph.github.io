@@ -3,13 +3,24 @@ layout: default
 bodyClass: "page-service"
 ---
 
-<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
-  <div class="row justify-content-start">
-    <div class="col-12 col-md-8">
-      <div class="service service-single">
-        <h1 class="title">{{page.title}}</h1>
-        <div class="content">{{content}}</div>
-      </div>
+<div class="intro">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-8">
+                <h1 class="title">{{page.title}}</h1>
+                <p>{{page.subtitle}}</p>
+                {% include call.html show_button=true %}
+            </div>
+        </div>
     </div>
-  </div>
+</div>
+
+<div class="container mt-5 mb-5">
+    <div class="row">
+        <div class="col">
+            <div class="content">
+                {{content}}
+            </div> 
+        </div>
+    </div>
 </div>

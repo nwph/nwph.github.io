@@ -1,7 +1,7 @@
 .footer {
   background: $footer-background-color;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   .footer-inner {
     display: flex;
     justify-content: space-between;
@@ -62,4 +62,24 @@
       }
     }
   }
+  .copyright {
+    font-size: 14px;
+    float: right;
+    color: #ffffff;
+    a {
+      font-weight: bold;
+      color: inherit;
+    }
+  }
+}
+
+.cta {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image:url(/images/footer.png);
+  color: #ffffff;
+}
+
+.cta p {
+  color: #ffffff;
 }
