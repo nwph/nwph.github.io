@@ -8,10 +8,14 @@
   align-items: center;
   flex-direction: column;
   text-align: center;
+  color: #5c5a5a;
+  h2 {
+    color: #212529;
+  }
   .feature-image {
     flex: 0 0 auto;
-    width: 80px;
-    height: 80px;
+    width: 240px;
+    height: 240px;
     display: flex;
     margin-bottom: 20px;
     text-align: center;

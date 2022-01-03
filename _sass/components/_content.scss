@@ -90,4 +90,10 @@
     color: $steel;
     border-left: .25em solid $secondary;
   }
+  p:first-of-type {
+    font-size: 1.6rem;
+    line-height: 1.4;
+    margin-bottom: 40px;
+    color: #686868;
+  }
 }

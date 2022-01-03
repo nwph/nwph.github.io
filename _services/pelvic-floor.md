@@ -2,7 +2,7 @@
 title: Pelvic Floor Assessment and Exercise Programs
 subtitle: Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
 weight: 1
-layout: page
+layout: service
 description: Pelvic Floor Assessment and Exercise Programs
 ---
 

@@ -1,48 +1,35 @@
 ---
 title: Information
-subtitle: Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+subtitle: This page contains information regarding appointment types, payment and what to expect from your physiotherapy appointment.
 layout: page
 description: Information
 ---
 
-## More Useful Information
+# General Appointment Information
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Initial (one hour) and follow up (30 mins) appointments are available, these can be in person in the Gollan St ELPE Health clinic or via telehealth.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+Home Visits may be available if you are unable to attend the clinic in person (e.g for mastitis) please use the [contact form](/contact/) to organise a home visit. Appointments can be made by calling ELPE Health on [03 6425 6901](tel:+61364256901).
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+HICAPS rebates are available if you have private health insurance cover for extras. Speak directly to your fund for more details. Medicare funded appointments are available if your GP has filled out the appropriate paperwork (Chronic Disease Management Plan - formerly EPC plan) and this has been sent through to the clinic. Note there is a gap payment charged on top of the medicare rebate. NDIS funding can be used for appointments as long as there is prior approval from case managers and appropriate paperwork has been sent through before making an appointment.
 
-## What Should Patients Know
+Payment for appointments/equipment must be made on the day of service. Notice for cancellation is required at least 24 hours prior to your appointment time. If insufficient notice is given and there are not extenuating circumstances, you may be charged for your appointment.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+## Prior to Your Appointment
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+Please arrive 5-10 minutes before your initial appointment to allow you adequate time to fill in your new patient registration and pelvic floor questionnaire. Please bring with you any doctors or specialist referrals that you might have, or imaging reports if relevant.
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+A referral is not needed for a physiotherapy appointment, however we welcome any relevant information from medical practitioners.
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+## At Your Appointment
+
+Children/family members/carers are welcome to attend appointments with you, however with the presence of COVID in our community, please limit the number of people coming with you to your appointment, so we can abide by density limits.
+
+Surgical masks must be worn to appointments. Please cancel your appointment if you or anyone accompanying you to your appointment have any cold and flu symptoms.
+
+Please wear loose/stretchy clothing for ease movement during physical assessment. Your Physiotherapist will take a comprehensive medical history from you during your appointment. This may include (where applicable) questions about bladder/bowel/sexual function as well as obstetric and gynaecological history. You do not have to answer any questions that you are uncomfortable with, however it may help your
+physio guide your assessment and treatment.
+
+Physical examination may include the external structures of the pelvis/abdomen and lower back, as well as the pelvic floor. The pelvic floor can be assessed using real time ultrasound, a visual assessment of the pelvic floor without your clothes on, or a internal vaginal or rectal examination. Participation in any aspect of the assessment is always your choice and your Physiotherapist will explain all options to you.
+
+Internal examination when you have your period is still possible if you are comfortable to do so. Please let your Physiotherapist know your preferences at any time. We are committed to ensuring your experience is as comfortable as possible.

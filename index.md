@@ -1,6 +1,6 @@
 ---
-title: North West Pelvic Health - Tasmania Physiotherapy
-subtitle: Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+title: Pelvic Health Physiotherapy in Tasmania’s North West
+subtitle: North West Pelvic Health provides physiotherapy services for a range of pelvic conditions including continence, prolapse, pregnancy related issues and more.
 layout: home
-description: North West Pelvic Health - Tasmania Physiotherapy
+description: North West Pelvic Health provides physiotherapy services for a range of pelvic conditions including continence, prolapse, pregnancy related issues and more.
 ---

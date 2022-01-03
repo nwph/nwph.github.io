@@ -2,7 +2,7 @@
 title: Painful Sex
 subtitle: Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
 weight: 5
-layout: page
+layout: service
 description: Painful Sex
 ---
 

@@ -1,29 +1,29 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Women's Health",
+    "description": "Assessment and treatment of conditions such as incontinence, prolapse, painful intercourse, pregnancy or post-natal issues and conditions related to breastfeeding.",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
-      "width": 80,
-      "height": 80
+      "url": "images/features/womens-health.svg",
+      "width": 160,
+      "height": 160
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Men's Health",
+    "description": "Assessment and treatment of conditions specific to men including pre and post prostate surgery pelvic floor rehabilitation, continence and pelvic pain.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
-      "width": 80,
-      "height": 80
+      "url": "images/features/mens-health.svg",
+      "width": 160,
+      "height": 160
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Pelvic Health",
+    "description": "Assessment and treatment of non gender specific conditions including tailbone (coccyx pain), SIJ pain, pelvic pain, continence, and childrens' continence.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
-      "width": 80,
-      "height": 80
+      "url": "images/features/pelvic-health.svg",
+      "width": 160,
+      "height": 160
     }
   }
 ]
