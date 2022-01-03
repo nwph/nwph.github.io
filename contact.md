@@ -1,6 +1,6 @@
 ---
 title: Contact
-subtitle: North West Pelvic Health is located centrally on the North Westn coast of Tasmania to provide a service for those from Smithton, Wynyard, Somerset, Burnie, Penguin, Ulverstone, Devonport and surrounds.
+subtitle: North West Pelvic Health is located centrally on the North West coast of Tasmania to provide a service for those from Smithton, Wynyard, Somerset, Burnie, Penguin, Ulverstone, Devonport and surrounds.
 layout: contact
 description: North West Pelvic Health - Tasmania Physiotherapy
 ---
