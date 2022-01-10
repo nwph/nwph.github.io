@@ -1,82 +1,39 @@
 ---
 title: Pelvic Floor Assessment and Exercise Programs
-subtitle: Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+subtitle: Assessment of the pelvic floor can be via real time ultrasound, visual or internal vaginal or rectal assessment.
 weight: 1
 layout: service
 description: Pelvic Floor Assessment and Exercise Programs
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Your physio will only assess your pelvic floor in a way you feel comfortable with. The assessment helps your physiotherapist diagnose and then treat your pelvic floor issue, usually via education and an exercise program.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+## How do I know if I have a weak pelvic floor?
 
-# Objectives 
+If you can’t laugh, sneeze or cough without urine leaking, you aren’t alone. Problems with controlling the pelvic floor muscles are common, especially if you have had children, are overweight, have a history of constipation, lift heavy loads, cough excessively, are older or are transitioning into menopause.
 
-Financial accounting and financial reporting are often used as synonyms.
+## How can I strengthen my pelvic floor?
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+It is recommended that women exercise their pelvic floor muscles daily throughout their life. Exercising weak muscles on a regular basis can help build strength over a period of time and enable them to work well again. To switch on your pelvic floor muscles (kegel exercises) see below:
 
-## Relevance
+- Relax your thighs, bottom and tummy muscles
+- Squeeze the muscles around the front passage as if you are trying to stop a wee
+- Squeeze the muscles around the vagina as if you are trying to suck upwards into the pelvis 
+- Squeeze the muscles around the back passage as if you are trying to hold in wind
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance. 
+Your physio can assess your technique with contracting your pelvic floor and give you a specific exercise program. 
 
-> The ingredients of relevance are the predictive value and confirmatory value. 
+### Pelvic floor exercises for incontinence
+The pelvic floor is a group of muscles that sit like a hammock in the base of the pelvis. The pelvic floor supports the pelvic organs and controls the bladder and bowel. The pelvic floor muscles also help with sexual sensation and function. If the pelvic floor muscles are weak it can lead to leakage of urine and faeces. To find the right muscles see above (How can I strengthen my pelvic floor). OR when  you go to the toilet you can try and stop or slow down the flow of urine mid way through doing a wee. If you can do this, you are contracting your pelvic floor correctly. Do this once a week to check your technique. 
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+### Pelvic floor exercises for prolapse
+When your pelvic floor is strong it supports your pelvic organs to prevent prolapse. Doing pelvic floor exercises regularly can improve symptoms of pelvic organ prolapse. Vaginal pessaries can also help, but aren’t suitable for everyone. In mild to moderate cases of prolapse, surgery can often be avoided or delayed with pelvic floor exercises and lifestyle modification. In studies, between 3 and 10 women out of 100 ended up needing to have surgery to correct their prolapse.
 
-## Faithful Representation
+### Pelvic floor exercises for pregnancy
+Pelvic floor exercises are important during pregnancy to provide strength, as these muscles are under alot of strain at this time and during birth. Pelvic floor strengthening will help the body cope with the weight of a growing baby and helps to reduce or avoid any symptoms of incontinence while pregnant or postpartum. All pregnant women should do pelvic floor exercises, regardless of age, to lower their risk of incontinence after delivery of their baby.
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+### Pelvic floor exercises for women
+Women need to do pelvic floor exercises throughout their life to support their pelvic organs and maintain continence. They are more at risk of pelvic floor issues around pregnancy, childbirth, menopause and aging. See above strategies for correctly identifying your pelvic floor muscles.
 
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-Cash Inflow | Outflow | Opening Balance
---- | --- | ---
-*Monday* | `Tuesday` | **Wednesday**
-1 | 2 | 3
-
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-* Cash inflow: $20
-* Cash outflow:$7
-* Opening balance: $5
-* Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement. 
-
-- **fixed assets**
-    - property
-    - building
-    - equipment (such as factory machinery)
-- **intangible assets**
-    - copyrights
-    - trademarks
-    - patents
-        - pending
-        - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+### Pelvic floor exercises for men
+Pelvic floor exercises can help improve bladder and bowel control and may assist with achieving and maintaining erection. They can help if you have incontinence or dribble after urination (usually after you have left the toilet). Many factors can contribute to men having weak pelvic floor muscles including surgery for the prostate (radical prostatectomy), diabetes, overactive bladder and aging. See the section on physiotherapy and prostate surgery for more information.

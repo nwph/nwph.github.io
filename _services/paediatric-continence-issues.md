@@ -1,53 +1,39 @@
 ---
-title: Paediatric Continence Issues
-subtitle: Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-weight: 4
+title: Children’s Continence Issues
+subtitle: Children may have issues with constipation/soiling, day wetting, frequency of urination (having to go to the toilet alot), urinary urgency/incontinence and bed wetting.
 layout: service
-description: Paediatric Continence Issues
+description: Children’s Continence Issues
+weight: 6
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+## How common is incontinence in children?
 
-## Ne verba patulosque numen vix libet
+It is normal for children younger than 3 to not have complete control over their bladder. Most children can control their bladder and bowel by 4 years of age. About 10% of children 5 -6 years old experience daytime wetting, this number tends to decrease with age.
 
-Agitabitur signa lympha; **non lacunae** mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+## Children with incontinence of the bowel
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+If a child has regular poo accidents (faecal incontinence) after the age of 4 or starts having accidents when they had previously had control, they require a medical assessment. In almost all children with faecal incontinence, it is due to the large bowel not being emptied properly, or constipation. 
 
-Locus evicit __loquuntur Tyrrhena omnes__, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+## Daytime urinary incontinence in children
 
-## Postquam tamen
+Bladder incontinence can happen in children from time to time but when it happens regularly over the age of 5 for girls and 6 for boys, it can become an issue. Wee accidents can be caused by a number of reasons including anxiety, caffeine, constipation, overactive bladder, not emptying the bladder properly, inattention to when the bladder is full or a small bladder.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+### Nocturnal Enuresis (bed wetting)
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+Bed wetting happens when the bladder empties when asleep. This can be worrying for parents and embarrassing for children. Most children are dry overnight by the time they start school, but it can take up to 7 or 8 years of age to be completely dry overnight. Children may wet the bed due to 3 main reasons:
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+1. The inability to wake when they have a full bladder
+2. Their bladder is overactive at night and doesn’t store their wee
+3. Their kidneys produce a large volume of wee overnight which they cannot hold
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+### Physiotherapy for Children’s continence
+
+After thorough assessment including use of real-time ultrasound if applicable, physio treatment may include the following:
+
+- Education for child and parent
+- Teaching correct bladder and bowel habits
+- Timed voiding and drinking programs
+- Use of bed wetting alarms
+- Pelvic floor muscle training or relaxation
+- Liaising with teachers
+- Referral to other health professionals as needed - it is common that treatment for children’s continence involves a multidisciplinary team

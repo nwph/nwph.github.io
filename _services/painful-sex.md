@@ -1,53 +1,39 @@
 ---
 title: Painful Sex
-subtitle: Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+subtitle: Women may have pain with penetration or be unable to use a tampon. Pain can be on entry to the vagina, lower abdominal pain with sex, sharp pain during sex, pain with orgasm or pain after sexual intercourse.
 weight: 5
 layout: service
 description: Painful Sex
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Pain with intercourse can affect women of all ages but young women are most likely to have symptoms. Post menopausal women can have pain due to tissue changes, increased dryness and narrowing of the opening of the vagina.
 
-## Ne verba patulosque numen vix libet
+Postnatal women can often experience pain with intercourse and those that deliver by c-section are three times more likely to experience this. Chronic pelvic pain and associated medical conditions can also cause painful intercourse. Pain with sex can understandably cause relationship problems and have negative emotional effects, so is best addressed sooner rather than later.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+## Dyspareunia
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+Dyspareunia is the word used for experiencing pain before, during or after vaginal intercourse. There are many causes of dyspareunia including insufficient lubrication, skin conditions, UTIs, pelvic organ prolapse, illness or surgery. Psychological causes such as issues with your relationship, history of sexual abuse, stress and anxiety can also contribute. 
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+## Vaginismus
 
-## Postquam tamen
+Vaginismus is a type of dyspareunia when tight/spasming pelvic floor muscles cause narrowing of the entry to the vagina. It is often the diagnosis given to pain at penetration and can make penetration impossible. Pain at penetration can also be caused by insufficient lubrication/arousal, inflammation or infection of the skin or nerve damage in the area (pudendal neuralgia).
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+## Vulvodynia
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+Vulvodynia is the term given to pain experienced in the external sexual organs; the vulva, the labia, clitoris and vaginal opening. 
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+### Pain and the brain
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+Dyspareunia can often start with a physical cause (e.g thrush) but then persists because of changes in the brain. Your brain starts to associate pain with intercourse and a vicious cycle ensues. Your brain gets switched on to being on high alert and looking out for danger. If your brain is anticipating danger (painful sex) it may produce muscle spasm to try and protect you, however this makes sex more painful and further reinforces the pain cycle. Feelings of low self worth, anxiety and stress associated with painful sex and changes in a relationship, worsen the “alert” brain and therefore your sexual experience. 
+
+### Physiotherapy for painful sex
+
+Understanding what causes your symptoms is an important part of what your physio will do. Treatment options can include:
+
+- Education about pain and the brain
+- Pelvic floor relaxation techniques
+- Dilator therapy
+- Internal vaginal release techniques
+- External manual therapy around the pelvis/hips
+- Exercise therapy (including yoga)
+- Referral to other health care professionals including psychologist, gynaecologist or sex therapist

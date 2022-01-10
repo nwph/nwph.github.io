@@ -1,53 +1,41 @@
 ---
 title: Bladder and Bowel Issues
-subtitle: Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+subtitle: Bladder and bowel issues can include incontinence, pain, difficulty initiating or completely emptying the bladder or rectum. It includes any issue with urinating or passing stools.
 weight: 4
 layout: service
 description: Bladder and Bowel Issues
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Bladder or bowel incontinence means a problem holding your urine or stool, an accidental leakage. Some conditions like dementia can cause bladder and bowel problems due to forgetting where the toilet is or how to take off clothes.
 
-## Ne verba patulosque numen vix libet
+Bladder and bowel issues may be due to the pelvic floor muscles but can also be due to many other conditions including bladder, bowel or prostate cancer, Crohn’s disease or colitis, cystitis, IBS, pelvic organ prolapse or urinary tract infections. 
 
-Agitabitur signa lympha; **non lacunae** mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+## Bladder and bowel dysfunction symptoms
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+Bladder or bowel dysfunction symptoms include involuntary loss of urine or stool. It can range in severity from a small amount of leakage to complete loss of control of the bladder or bowel. It may happen when you cough, sneeze, laugh or lift something heavy. It may happen when you exercise or play sports. You may need to rush to the toilet, or go to the toilet frequently. You may need to strain to empty your bladder or bowel, or have pain when doing the same. You might feel like you do not completely empty your bladder and bowel. 
 
-Locus evicit __loquuntur Tyrrhena omnes__, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+## What causes you to lose control of your bladder and bowel?
 
-## Postquam tamen
+Causes of bladder and bowel incontinence can include damage to nerves, holding urine for too long, having an overactive bladder, having diarrhea or constipation, vaginal childbirth, pelvic organ prolapse, side effects of medicine, stress, neurological conditions (MS, stroke, Alzhemiers) diabetes, infection or problems with the pelvic floor.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+In a normally functioning bladder and bowel, nerves tell certain muscles when to tighten and when to relax. The brain tells the nerves via the spinal cord what to do. Sphincter muscles control the holding of urine or stool and the nerves tell them when to contract and when to relax. 
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+## Incontinence treatment
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+Common treatments for incontinence may include changing what you eat and drink, pelvic floor exercises, medications, keeping a toileting schedule, use of electrical stimulation or surgery. 
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+## Overactive bladder symptoms
+
+Overactive bladder (OAB) makes you feel like you need to pass urine many times during the day and night, with sudden urges that may be difficult to control. You may experience leakage of urine when you get these sudden urges (urinary incontinence).
+
+### Overactive bladder causes
+
+Overactive bladder occurs when the bladder muscle contracts involuntarily even when there isn’t much urine in there. These contractions create the strong urge to go to the toilet. There are many conditions that can contribute to an overactive bladder including neurological disorders (MS, stroke), diabetes, UTIs, hormone changes in menopause, tumours or bladder stones, enlarged prostate, constipation, some surgeries, certain medications, excessive consumption of caffeine or alcohol, declining cognitive function with aging, or incompete bladder emptying. Alternatively, the specific cause of an overactive bladder may remain unknown. 
+
+### Overactive bladder treatment
+
+Overactive bladder may be able to be managed with behavioural strategies (bladder training), dietary changes, timed voiding, bladder holding techniques and pelvic floor exercises. Intermittent catheterisation can be used if you aren’t able to empty your bladder well and pads can be worn if incontinence is an issue. If behavioural strategies are not successful there are medications to assist with an overactive bladder. 
+
+### Physiotherapy treatment for bladder and bowel issues
+
+Pelvic floor exercises (kegels) can strengthen the sphincter muscles and pelvic floor to give you better control  over your bladder and bowel. Education about good bladder and bowel health can be helpful, including diet and lifestyle changes, regular exercise and practicing good toileting habits. Your physio can educate you regarding programs of timed voiding and bladder training including techniques to defer the urge to go to the toilet.

@@ -1,53 +1,27 @@
 ---
 title: Pregnancy Related Pain
-subtitle: Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+subtitle: Pregnant women may experience pain in the pelvic girdle, lower back, pubic symphysis or groin, wrists, have carpal tunnel symptoms, neck, mid back or rib pain.
 weight: 4
 layout: service
 description: Pregnancy Related Pain
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+This is often due to physical changes associated with a growing baby, changing centre of gravity, hormonal changes, in particular late in pregnancy readying the body for birth.
 
-## Ne verba patulosque numen vix libet
+## Pelvic girdle pain
 
-Agitabitur signa lympha; **non lacunae** mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Pelvic girdle pain is common in pregnancy. It may occur due to changes in posture, pressure on your pelvis and hormonal changes.  It is characterised by pain at the pubic bone, across one or both sides of the lower back, between the vagina and back passage and can refer to the lower back, lower belly, groin, hips, thighs and legs. You may feel clicking, locking or grinding of the pelvic joints when you move. Pain is usually aggravated by walking, going upstairs, standing on one leg, rolling over in bed, getting in and out of the car, or having intercourse. With treatment, pelvic girdle pain can be managed and symptoms reduced. Most women who have pelvic pain during pregnancy can go on to have a vaginal delivery.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+## Low back pain
 
-Locus evicit __loquuntur Tyrrhena omnes__, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+Pregnancy related low back pain occurs in 60-70% of pregnancies. It is pain that is not caused by a known injury/pathology and can begin at any time during the pregnancy. As with pelvic girdle pain, it is likely that pregnancy related low back pain is caused by hormonal changes softening the ligaments in the body, the increasing weight of the uterus and increased “hollow’ in your lower back due to changing centre of gravity.
 
-## Postquam tamen
+### Pubic symphysis pain
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+Pubic symphysis pain is another name for pelvic girdle pain that is felt at the front of your pelvis or in your groin. The pubic symphysis is the joint that sits between your pelvic bones at the front of your pelvis, right above your vulva. During pregnancy the ligaments around this joint soften to allow your baby to pass through during delivery. You are at a higher risk of pubic symphysis pain if you have had it in previous pregnancies, have had multiple pregnancies, have had pelvic trauma, are overweight, are having multiple babies, are having a very large baby.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+### Physiotherapy for pregnancy related pain
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+Pelvic girdle pain can resolve or be managed through pregnancy with physio to make sure the joints in the pelvis, spine and hips are moving normally. You may need exercises to strengthen your pelvic floor, back, tummy and hip muscles. Your physio may prescribe crutches or pelvic braces/belts if needed.
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+Physiotherapy can assist with pregnancy related low back pain by providing education, manual therapy, exercise therapy and taping.

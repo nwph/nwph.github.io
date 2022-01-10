@@ -1,50 +1,43 @@
 ---
 title: Prolapse Management
-subtitle: Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+subtitle: Vaginal prolapse is very common, over half of women over the age of 50 have some degree of prolapse, but many do not have any symptoms.
 weight: 3
 layout: service
 description: Prolapse Management
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+Prolapse happens when ligament and connective tissues (or ‘fascia’) stretch and no longer support the pelvic organs well. In combination with a weak pelvic floor, the pelvic organs may bulge into the vagina. 
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+## Prolapse symptoms
 
-## Geniti facinus praeruptam atris ab manus in
+Prolapse is when the bladder, uterus or bowel protrudes into the vagina. Symptoms of prolapse include:
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+- Vaginal bulging or the feeling of something coming down
+- A lump/swelling bulging out of the vagina that you can feel/see
+- Pelvic pressure, heaviness or a dragging sensation
+- Bleeding/discharge/infection
+- Recurring urinary tract infections (UTIs)
+- Splinting/digitation - needing to digitally push the prolapse up to be able to urinate or defecate
+- Low back ache similar to period pain
+- Bladder/bowel dysfunction (including difficulty emptying the bladder/bowel and constipation)
+- Difficulty with sexual intercourse (pain or less sensation)
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+## Types of prolapse 
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+- Uterine prolapse - the uterus drops into the vagina
+- Cystocele - the bladder bulges into the vagina
+- Rectocele - the rectum bulges into the vagina
+- Enterocele - the small intestine bulges into the vagina
+- Vaginal vault prolapse - the top of the vagina drops down (after hysterectomy)
 
-## Vidit si probetne vertitur
+## What causes a prolapse?
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
+The biggest cause of prolapse is pregnancy and birth, however other factors such as family history, lifestyle and certain medical conditions can lead to prolapse. You are more likely to have a vaginal prolapse is you have been through menopause, if you have had more than one baby, if you were pushing for a long time when birthing your baby, you are overweight, you have fibroids or a pelvic tumour or if you have had previous prolapse repair surgery. 
 
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
+### Prolapse treatment
 
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+Mild cases of prolapse do not require treatment. For symptomatic prolapses, treatment options include pelvic floor muscle exercises (see our section on pelvic floor exercise for prolapse), simple lifestyle modifications, a supportive device (pessary) or you may be recommended surgical treatment. 
+
+### Physiotherapy and prolapse
+
+Physiotherapists can help with prolapse by teaching pelvic floor exercises (kegels), providing education about changes to lifestyle, good bladder and bowel habits, managing constipation, losing weight and having a pessary fitted. A physio may also use real time ultrasound to facilitate rehabilitation.

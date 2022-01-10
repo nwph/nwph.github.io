@@ -5,7 +5,7 @@ layout: contact
 description: North West Pelvic Health - Tasmania Physiotherapy
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Appointments can be made by calling ELPE Health on [03 6425 6901](tel:+61364256901). We currently offer appointments in Ulverstone only.
 
 **North West Pelvic Health**  
 Ulverstone Clinic (Located at ELPE Health)  

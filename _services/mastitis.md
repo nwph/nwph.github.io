@@ -1,53 +1,23 @@
 ---
 title: Mastitis
-subtitle: Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+subtitle: Mastitis (inflammation of the breast) or blocked ducts can occur when breastfeeding. Blocked ducts can lead to infection which may require antibiotics. Physiotherapy treatment can help clear blocked ducts and reduce inflammation.
 weight: 4
 layout: service
 description: Mastitis
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+## What causes mastitis?
 
-## Ne verba patulosque numen vix libet
+Usually a blocked duct or incomplete emptying of milk from the breast will cause mastitis. This can be due to poor attachment to the breast by the infant, ill-fitting/tight bra or crop top or nipple damage.
 
-Agitabitur signa lympha; **non lacunae** mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+## Mastitis symptoms
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+You may feel like you have the flu, feeling unwell with aches and feeling hot and cold. Your breast may have a red, sore area. It may feel hard and hot.
 
-Locus evicit __loquuntur Tyrrhena omnes__, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+### Mastitis treatment
 
-## Postquam tamen
+Continue to feed your baby/express milk from the affected breast. Use warmth over the affected area prior to feeding/expressing. At other times you can use something cool in the area for comfort. Gentle massage of the area while feeding/expressing can help to unblock a duct. If symptoms aren’t resolving you may need to see your GP for a course of antibiotics. Advice from a lactation consultant may be helpful if poor attachment is a contributing factor.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+### Physiotherapy for Mastitis
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+Physiotherapy treatment may involve therapeutic ultrasound to help reduce inflammation, kinesio taping, and advice about home management.

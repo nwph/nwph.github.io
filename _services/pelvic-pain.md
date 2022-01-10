@@ -1,46 +1,43 @@
 ---
 title: Chronic Pelvic Pain
-subtitle: Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+subtitle: Chronic pelvic pain is defined as a non-malignant, intermittent or continuous pain in the pelvis or lower abdomen.
 weight: 6
 layout: service
 description: Chronic Pelvic Pain
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+Chronic pelvic pain can be caused by a number of pelvic and abdominal issues. It becomes chronic when the pain persists for at least 3-6 months. It is estimated to affect 15-25% of women and 10% of men.
 
-- Nata perque
-- Et ferrugine laedam
-- Cedere tandem Atlante maiestas Italicis ut forma
+## What does chronic pelvic pain feel like?
 
-Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum
-precor facitote nubemque. Potuit Celadon Martem?
+Chronic pelvic pain (CPP) is pain below the belly button and between the hips that lasts for 6 months or longer. It can be described as a severe and steady pain, pain that comes and goes, a dull ache, sharp pains/cramping or a pressure/heaviness within the pelvis itself. 
 
-1. Imagine Assaracus victori petet femina mea haustos
-2. Sicaniam quibus agro magni
-3. In utque Troica pedum caelestia hunc tempto
-4. Gregibus certare tamen turbatque qui
+## Chronic pelvic pain symptoms
 
-## Patulis Veneris est expulit adversaque magnum mediaque
+You may experience pain symptoms as described above, but also pain with intercourse, bladder and bowel dysfunction, bloating, period pain, pain with ovulation or pain sitting/standing for long periods of time. Pain may be relieved by lying down. The pain may be mild and annoying, or severe and impact your ability to work, sleep or exercise. 
 
-Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit. Nimbi
-subversaque et micant suumque, tibi ipse; sed. **Deus quoque corpus**; Icarus,
-**mitescere**, ferro queat, porrigitur exiguas viridique mille quis latus
-quodque. Non una genuisse ullis efficiet ad corpore nunc mentesque praestant?
+## Chronic pelvic pain causes
 
-_Diduxit manibus_ anguis contraxit, suas et lacus nec soceri fores alis nec,
-nec! Data pater Perseu minanti animam operitur illa dolorem.
+Chronic pelvic pain may be caused by the following:
 
-Cursus suis _amplectitur inbutum retractat_ te tempora [deducere
-mille](#miles-deceat-adunca) cessastis alatur primoque. Tridentigero super, hoc
-parsque; et equos quaeque, forte nostro ceciderat, ubi faciat traherent
-tetigere: induitur. Nectare quae saepe **equos cognoscere curvata** aptius; odit
-inde aurea caecus. Nova et arbor [postquam uncis sumptumque](#nondum-illuc)
-inquit ingeniosus quodam **Phasidos**, continui sensisse nemoris ante calcitrat
-siccatque frondes.
+- Endometriosis
+- Adenomyosis
+- Musculoskeletal problems (fibromyalgia, pelvic floor tightness, hernia etc)
+- Interstitial cystitis or painful bladder syndrome
+- UTI
+- Pelvic inflammatory disease
+- Pelvic congestion syndrome
+- Irritable bowel syndrome
+- Uterine fibroids
+- Vulvodynia
+- Psychological factors can increase your risk of CPP or make your pain worse
 
-Fugiunt madentes postis, tangit colorem raptores munera, ferox tueri postquam
-formosus servat potui. Luce ebur, pulcherrimus plus tradere! _Quam perque
-semper_?
+### Chronic pelvic pain treatment
+
+Often chronic pelvic pain cannot be “cured” but rather managed through a variety of medical and non-medical interventions. Pain that persists despite treatment of underlying conditions may be due to changes in the brain (see pain and the brain) and understanding this is an important part of management.
+
+There are different hormonal therapies, lifestyle adjustments, psychotherapy, physiotherapy or osteopathy, medications and alternative therapies such as mindfulness, yoga and acupuncture, which can be helpful. Chronic Pelvic pain is best managed by a multidisciplinary team of health professionals.
+
+### Physiotherapy for chronic pelvic pain
+
+Physio for chronic pelvic pain may include pain education, pelvic floor exercises, implementing good bladder and bowel habits, mindfulness, yoga, treatment of muscles or joints that are tight/weak/painful to reduce symptoms. A physio will work with your other health professionals to help manage your symptoms.

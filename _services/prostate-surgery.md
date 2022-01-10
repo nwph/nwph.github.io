@@ -1,61 +1,26 @@
 ---
-title: Physiotherapy Pre and Post Prostate Surgery
-subtitle: Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+title: Physiotherapy Prostate Surgery
+subtitle: After prostatectomy men usually need to purposely use their pelvic floor muscles to control their bladder. It is easier to learn how to use the muscles before having the surgery - knowing where they are and how to use them correctly will assist with your recovery.
 weight: 2
 layout: service
 description: Physiotherapy Pre and Post Prostate Surgery
 ---
 
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
-ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
-ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
-quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
-laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto
-duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
-Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
-remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
+It is advised that men undergoing a radical prostatectomy should see a physiotherapist at least 6-8 weeks prior to surgery and again afterwards to learn about their pelvic floor and get it working well again after surgery. Some degree of incontinence is expected after surgery as there can be removal of or damage to the urinary sphincters and pelvic floor muscles.
 
-## Inter pectore totidem
+## Pelvic floor exercises before prostate surgery
 
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
-lassavit nihil oracula exiguo ligatis.
+Boost your confidence to learn how to exercise your pelvic floor and give you something to focus on during the wait for surgery. There are a few ways men can correctly identify the correct muscles:
 
-## Novis hunc qua erat caecisque
+- Stopping the flow of your wee midway through emptying your bladder
+- Visualising the penis draw in and scrotum lift up using a mirror
 
-Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,
-manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,
-finivit cui male venit moves! Senior et niger tepido parenti fuit, in ponit
-spectemur et opto speret. Ferum Neptunus tergore.
+Your lower tummy may flatten slightly but everything above the belly button must stay relaxed, keep breathing. 
 
-Nunc erant super: sacra cingebant tandem: rogabam terras, ripa. Cum est scire
-est increpat, leaena ipsa venae me minus casusve tauri. Poscis sacrorum
-_congerit currus_ Hippotades poenas. Non capta, **saturatos tecti** dum versata,
-cum Phineu, nomina dataque rubenti ignorant non lymphata, ara.
+### Pelvic floor pain after prostatectomy
 
-## Naiades latuere rubenti tendere os Phrygum eminus
+It is important you do not perform pelvic floor exercises while your catheter is in place after surgery as it can irritate the bladder. If your pelvic floor is tense or tight after surgery it may become painful. A degree of pain after surgery is to be expected - speak with your surgeon about post operative pain relief. 
 
-Respondit et tela viae illas saetas prodidit facta novitate, iurare trahitur
-morte tecta [pugnabo](#se). Est age, paelicis vestigia tremor capillis carere
-formae ne ait modo. Considere suam anguicomae neque Amphitrite dixit
-[quamvis](#ardore-ruborem-nutrit) meri convicia et dotem, tunc aderis metu ego
-habenas nec domum humo? Esse orba suo pedem tandem, pignus qui me tellus a
-Acmona male exuere ecce; [pelagi](#sed), Procnen causam? Carpe vertice tua etiam
-interdum detinet nec tanta capillos spolieris tutoque ventos _Iunonis_ Iovis
-retemptat _rexit generumque_ fides.
+### Getting back into shape after prostatectomy 
 
-## Statuunt nais inponere tamen duodena aemulus mille
-
-Feriat humilis recuset parum! Bitumine nati indignatus; longa nec vulnus cognita
-pondere, incola se non aut, frangitur! Cavis resoluta: ilia ardeat terraeque
-nova, adhuc! Ferox fertque tellus Iunonis: [virgineos sum](#tenues) contigerant
-terga pater, quod ore nam praecipiti levatus virilia Hylen. Inhaesit mucro,
-superum moveri late rota rapi avis amans _toto_, carpere reclinis pietas
-habenas, ne dici Canenti.
-
-1. Induruit huc grave simili
-2. Praecincti natos
-3. Ad dedit parentem
-4. Linguae pendent
-
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
+Performing pelvic floor exercises before and after surgery is vital to your recovery as these muscles help you control your bladder and bowel. To return to normal activity, you will need to be sensible and follow a graduated exercise program. This can be guided by your surgeon and/or physio, walking is a good place to start. Often men get leakage when returning to higher intensity exercise and so may require more work on their pelvic floor before they can reach their activity goals.
