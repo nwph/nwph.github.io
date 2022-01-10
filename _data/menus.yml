@@ -13,18 +13,18 @@ main:
     weight: 4
 
 footer:
-  - name: "Home"
-    url: "/"
-    weight: 1
   - name: "Services"
     url: "/services/"
-    weight: 2
+    weight: 1
   - name: "About"
     url: "/about/"
-    weight: 3
-  - name: "Information"
+    weight: 2
+  - name: "Info"
     url: "/information/"
-    weight: 4
+    weight: 3
   - name: "Contact"
     url: "/contact/"
+    weight: 4
+  - name: "Privacy"
+    url: "/privacy-policy/"
     weight: 5

@@ -2,12 +2,15 @@
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  padding-top: 60px;
+  padding-top: 120px;
   padding-bottom: 60px;
   overflow: hidden;
   background-size: cover;
   background-repeat: no-repeat;
   background-image:url(/images/hero.png);
+  @include media-breakpoint-up(sm) {
+    padding-top: 140px;
+  }
   @include media-breakpoint-up(md) {
     padding-top: 200px;
     padding-bottom: 120px;
@@ -18,7 +21,6 @@
     font-weight: bold;
     line-height: 1.2;
     @include media-breakpoint-up(md) {
-      width: 80%;
       font-size: 48px;
     }
     @include media-breakpoint-up(lg) {
@@ -26,7 +28,6 @@
     }
   }
   h2 {
-    width: 80%;
     font-size: 1.2rem;
     line-height: 1.4;
     margin-bottom: 30px;
@@ -38,9 +39,6 @@
     font-weight: light;
     line-height: 1.5;
     color: $steel;
-    @include media-breakpoint-up(md) {
-      width: 80%;
-    }
   }
 }
 

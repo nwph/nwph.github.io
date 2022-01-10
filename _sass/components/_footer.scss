@@ -1,13 +1,16 @@
 .footer {
   background: $footer-background-color;
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 10px;
   .footer-inner {
     display: flex;
-    justify-content: space-between;
     flex-direction: column;
     align-items: flex-start;
     @include media-breakpoint-up(sm) {
+      flex-direction: column;
+      align-items: start;
+    }
+    @include media-breakpoint-up(md) {
       justify-content: space-between;
       flex-direction: row;
       align-items: center;
@@ -18,54 +21,47 @@
     font-size: 1.3rem;
     font-family: $font-family-heading;
     font-weight: bold;
-    margin-bottom: 10px;
-    @include media-breakpoint-up(sm) {
-      margin: 0;
+    margin-bottom: 20px;
+    @include media-breakpoint-up(md) {
+      margin-bottom: 0;
     }
   }
   ul {
+    height: inherit;
+    display: flex;
     list-style: none;
     margin: 0;
     padding: 0;
+    align-items: center;
+    justify-content: flex-start;
     li {
-      color: $footer-text-color;
-      font-size: 1rem;
+      list-style: none;
+      margin-right: 10px;
+      &:last-of-type {
+        margin-right: 0;
+      }
       a {
         color: $footer-text-color;
         text-decoration: none;
-        padding: 12px 14px 12px 0;
-        display: block;
+        display: inline-block;
+        height: 40px;
+        padding: 10px 5px 10px 5px;
         &:hover {
           text-decoration: underline;
         }
-      }
-    }
-    @include media-breakpoint-up(sm) {
-      height: inherit;
-      display: flex;
-      list-style: none;
-      margin: 0;
-      padding: 0;
-      align-items: center;
-      justify-content: flex-end;
-      li {
-        list-style: none;
-        margin-right: 10px;
-        &:last-of-type {
-          margin-right: 0;
-        }
-        a {
-          display: inline-block;
-          height: 40px;
-          padding: 10px 8px 10px 8px;
+        &:first-of-type {
+          padding-left: 0;
         }
       }
     }
   }
   .copyright {
     font-size: 14px;
-    float: right;
-    color: #ffffff;
+    float: left;
+    color: #8b8a8a;
+    @include media-breakpoint-up(md) {
+      float:right;
+    }
     a {
       font-weight: bold;
       color: inherit;
