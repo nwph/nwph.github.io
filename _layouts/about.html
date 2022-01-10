@@ -17,36 +17,28 @@ bodyClass: "page-teams"
 
 <div class="container mt-5 mb-5">
     <div class="row">
-        <div class="col-6">
+        <div class="col">
             <div class="content">
                 {{content}}
-            </div> 
-        </div>
-        <div class="col-6">
-            
-                <div class="row">
-                    {% assign promoted_teams = site.team | where: "promoted", true | sort: "weight" %}
-                    {% for team in promoted_teams %}
-                    <div class="col-12">
-                        <div class="team team-summary team-summary-large">
-                            {% if team.image %}
-                            <div class="team-image">
-                                <img width="90" height="90" alt="{{ team.title }}" class="img-fluid mb-2" src="{{ team.image | relative_url }}" />
-                            </div>
-                            {% endif %}
-                            <div class="team-meta">
-                                <h2 class="team-name">{{ team.title }}</h2>
-                                <p class="team-description">{{ team.jobtitle }}</p>
-                                {% if team.linkedinurl %}
-                                <a target="_blank" href="{{ team.linkedinurl }}" rel="noreferrer">LinkedIn</a>
-                                {% endif %}
-                            </div>
-                            <div class="team-content">{{ team.content }}</div>
+                {% assign promoted_teams = site.team | where: "promoted", true | sort: "weight" %}
+                {% for team in promoted_teams %}                    
+                    <div class="team team-summary team-summary-large mt-5">
+                        {% if team.image %}
+                        <div class="team-image">
+                            <img width="90" height="90" alt="{{ team.title }}" class="img-fluid mb-2" src="{{ team.image | relative_url }}" />
                         </div>
+                        {% endif %}
+                        <div class="team-meta">
+                            <h2 class="team-name">{{ team.title }}</h2>
+                            <p class="team-description">{{ team.jobtitle }}</p>
+                            {% if team.linkedinurl %}
+                            <a target="_blank" href="{{ team.linkedinurl }}" rel="noreferrer">LinkedIn</a>
+                            {% endif %}
+                        </div>
+                        <div class="team-content">{{ team.content }}</div>
                     </div>
-                    {% endfor %}
-                </div>
-            
+                {% endfor %}
+            </div> 
         </div>
     </div>
 </div>
