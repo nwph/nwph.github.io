@@ -1,28 +1,92 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% for post in site.posts %}
-    {% unless post.published == false %}    
-    <url>
-      <loc>{{ site.url }}{{ post.url }}</loc>
-      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-    </url>
-    {% endunless %}
-  {% endfor %}
-   {% for page in site.pages %}
-  <url>
-    <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
-    {% if page.date %}
-      <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
-    {% else %}
-      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
-    {% endif %}
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  {% endfor %}
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://northwestpelvic.health/</loc>
+  <lastmod>2022-01-10T04:04:14+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://northwestpelvic.health/services/</loc>
+  <lastmod>2022-01-10T04:04:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://northwestpelvic.health/about/</loc>
+  <lastmod>2022-01-10T04:04:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://northwestpelvic.health/information/</loc>
+  <lastmod>2022-01-10T04:04:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://northwestpelvic.health/contact/</loc>
+  <lastmod>2022-01-10T04:04:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://northwestpelvic.health/services/bladder-and-bowel/</loc>
+  <lastmod>2022-01-10T04:04:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://northwestpelvic.health/services/mastitis/</loc>
+  <lastmod>2022-01-10T04:04:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://northwestpelvic.health/services/paediatric-continence-issues/</loc>
+  <lastmod>2022-01-10T04:04:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://northwestpelvic.health/services/painful-sex/</loc>
+  <lastmod>2022-01-10T04:04:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://northwestpelvic.health/services/pelvic-floor/</loc>
+  <lastmod>2022-01-10T04:04:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://northwestpelvic.health/services/pelvic-pain/</loc>
+  <lastmod>2022-01-10T04:04:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://northwestpelvic.health/privacy-policy/</loc>
+  <lastmod>2022-01-10T04:04:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://northwestpelvic.health/services/prostate-surgery/</loc>
+  <lastmod>2022-01-10T04:04:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://northwestpelvic.health/services/prolapse-management/</loc>
+  <lastmod>2022-01-10T04:04:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://northwestpelvic.health/services/post-natal-checks/</loc>
+  <lastmod>2022-01-10T04:04:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://northwestpelvic.health/services/pregnancy-pain/</loc>
+  <lastmod>2022-01-10T04:04:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
