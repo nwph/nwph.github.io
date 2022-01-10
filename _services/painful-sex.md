@@ -3,7 +3,8 @@ title: Painful Sex
 subtitle: Women may have pain with penetration or be unable to use a tampon. Pain can be on entry to the vagina, lower abdominal pain with sex, sharp pain during sex, pain with orgasm or pain after sexual intercourse.
 weight: 5
 layout: service
-description: Painful Sex
+description: Did you know physiotherapy can help with painful sex? Pain with intercourse can affect women of all ages but young women are most likely to have symptoms. Post menopausal women can have pain due to tissue changes, increased dryness and narrowing of the opening of the vagina.
+
 ---
 
 Pain with intercourse can affect women of all ages but young women are most likely to have symptoms. Post menopausal women can have pain due to tissue changes, increased dryness and narrowing of the opening of the vagina.

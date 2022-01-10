@@ -2,7 +2,7 @@
 title: About
 subtitle: North West Pelvic Health was established in 2021 in the absence of a dedicated pelvic health physiotherapy clinic in the region.
 layout: about
-description: About
+description: At North West Pelvic Health we hope to empower clients with the education required to improve strength, regain control and reduce pain. We understand that the nature of our work is intimate and are respectful of the trust clients put in us by accessing our service and sharing their story.
 ---
 
 We are passionate about providing evidence based care in a comfortable and relaxed environment. We enjoy working with pelvic health clients as it is rewarding work helping them achieve better quality of life.

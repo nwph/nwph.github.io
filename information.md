@@ -1,8 +1,8 @@
 ---
-title: Information
+title: Appointment Information
 subtitle: This page contains information regarding appointment types, payment and what to expect from your physiotherapy appointment. Please contact us if you have further questions.
 layout: page
-description: Information
+description: Your Physiotherapist will take a comprehensive medical history from you during your appointment. This may include questions about bladder/bowel/sexual function as well as obstetric and gynaecological history.
 ---
 
 ## General Appointment Information

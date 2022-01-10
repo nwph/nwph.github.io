@@ -3,7 +3,8 @@ title: Mastitis
 subtitle: Mastitis (inflammation of the breast) or blocked ducts can occur when breastfeeding. Blocked ducts can lead to infection which may require antibiotics. Physiotherapy treatment can help clear blocked ducts and reduce inflammation.
 weight: 4
 layout: service
-description: Mastitis
+description: Did you know physiotherapy can help mastitis? Mastitis or blocked ducts can occur when breastfeeding. Physiotherapy treatment can help clear blocked ducts and reduce inflammation and pain.
+
 ---
 
 ## What causes mastitis?

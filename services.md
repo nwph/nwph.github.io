@@ -2,7 +2,7 @@
 title: Physiotherapy for the Pelvic Floor
 subtitle: You may need to see a physiotherapist for pelvic organ prolapse management, incontinence, sexual pain, pelvic surgery preparation or rehabilitation, a pelvic floor check up prior to returning to exercise, for advice managing menopause and bone health, or for coccyx (tailbone) pain.
 layout: services
-description: Services
+description: Physiotherapy services for Pelvic Health conditions including pelvic organ prolapse management, incontinence, sexual pain, or a pelvic floor check up prior to returning to exercise.
 ---
 
 Many pelvic health issues are related to the function of the pelvic floor and the effect this has on the pelvic organs. Pelvic floor dysfunction symptoms may include:

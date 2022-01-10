@@ -2,7 +2,8 @@
 title: Children’s Continence Issues
 subtitle: Children may have issues with constipation/soiling, day wetting, frequency of urination (having to go to the toilet alot), urinary urgency/incontinence and bed wetting.
 layout: service
-description: Children’s Continence Issues
+description: Worried about your child's continence issues? Children may have trouble with constipation/soiling, day wetting, frequency of urination, urinary urgency/incontinence and bed wetting. Physiotherapy as part of a multidisciplinary team can be helpful.
+
 weight: 6
 ---
 

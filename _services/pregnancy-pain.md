@@ -3,7 +3,7 @@ title: Pregnancy Related Pain
 subtitle: Pregnant women may experience pain in the pelvic girdle, lower back, pubic symphysis or groin, wrists, have carpal tunnel symptoms, neck, mid back or rib pain.
 weight: 4
 layout: service
-description: Pregnancy Related Pain
+description: Pregnant women may experience pain in the pelvic girdle, lower back, pubic symphysis, neck, mid back or ribs. Rest easy knowing a qualified physiotherapist can help you manage these conditions in a way that is safe for you and your baby.
 ---
 
 This is often due to physical changes associated with a growing baby, changing centre of gravity, hormonal changes, in particular late in pregnancy readying the body for birth.

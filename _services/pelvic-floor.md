@@ -3,7 +3,7 @@ title: Pelvic Floor Assessment and Exercise Programs
 subtitle: Assessment of the pelvic floor can be via real time ultrasound, visual or internal vaginal or rectal assessment.
 weight: 1
 layout: service
-description: Pelvic Floor Assessment and Exercise Programs
+description: North West Pelvic Health provides pelvic floor assessment and exercise programs. Learn how to contract your pelvic floor muscles correctly.
 ---
 
 Your physio will only assess your pelvic floor in a way you feel comfortable with. The assessment helps your physiotherapist diagnose and then treat your pelvic floor issue, usually via education and an exercise program.

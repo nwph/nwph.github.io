@@ -1,9 +1,9 @@
 ---
-title: Chronic Pelvic Pain
+title: Physiotherapy for Chronic Pelvic Pain
 subtitle: Chronic pelvic pain is defined as a non-malignant, intermittent or continuous pain in the pelvis or lower abdomen.
 weight: 6
 layout: service
-description: Chronic Pelvic Pain
+description: Often chronic pelvic pain cannot be “cured” but rather managed through a variety of medical and non-medical interventions. Pain that persists despite treatment of underlying conditions may be due to changes in the brain and understanding this is an important part of management.
 ---
 
 Chronic pelvic pain can be caused by a number of pelvic and abdominal issues. It becomes chronic when the pain persists for at least 3-6 months. It is estimated to affect 15-25% of women and 10% of men.

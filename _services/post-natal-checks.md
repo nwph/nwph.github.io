@@ -3,7 +3,7 @@ title: Postnatal Checks (Including Abdominal Muscles and Pelvic Floor Exercises)
 subtitle: Pregnancy and childbirth cause extensive changes to the body. Regaining fitness and returning to exercise after having a baby can require help from your physiotherapist.
 weight: 4
 layout: service
-description: Post-Natal Checks (Including Abdominal Muscles and Pelvic Floor Rehab)
+description: At North West Pelvic Health we can help you safely regain your strength and fitness after giving birth. It is important to recondition your pelvic floor and abdominal muscles after pregnancy.
 ---
 
 In particular abdominal separation (diastasis recti) and pelvic floor issues may need to be assessed and exercise programs undertaken to recondition these muscles.

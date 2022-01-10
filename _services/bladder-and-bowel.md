@@ -1,9 +1,9 @@
 ---
-title: Bladder and Bowel Issues
+title: Physiotherapy for Bladder and Bowel Issues
 subtitle: Bladder and bowel issues can include incontinence, pain, difficulty initiating or completely emptying the bladder or rectum. It includes any issue with urinating or passing stools.
 weight: 4
 layout: service
-description: Bladder and Bowel Issues
+description: Physiotherapy can help with incontinence, pelvic pain, difficulty initiating or completely emptying the bladder or rectum. This includes issues with urinating or passing stools.
 ---
 
 Bladder or bowel incontinence means a problem holding your urine or stool, an accidental leakage. Some conditions like dementia can cause bladder and bowel problems due to forgetting where the toilet is or how to take off clothes.

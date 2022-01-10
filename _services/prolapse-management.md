@@ -1,9 +1,9 @@
 ---
-title: Prolapse Management
+title: Physiotherapy for Prolapse
 subtitle: Vaginal prolapse is very common, over half of women over the age of 50 have some degree of prolapse, but many do not have any symptoms.
 weight: 3
 layout: service
-description: Prolapse Management
+description: Learn how to manage your prolapse at North West Pelvic Health. Vaginal prolapse is very common, over half of women over the age of 50 have some degree of prolapse.
 ---
 
 Prolapse happens when ligament and connective tissues (or ‘fascia’) stretch and no longer support the pelvic organs well. In combination with a weak pelvic floor, the pelvic organs may bulge into the vagina. 
