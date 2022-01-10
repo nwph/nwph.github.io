@@ -19,7 +19,7 @@ footer:
   - name: "About"
     url: "/about/"
     weight: 2
-  - name: "Info"
+  - name: "Information"
     url: "/information/"
     weight: 3
   - name: "Contact"
