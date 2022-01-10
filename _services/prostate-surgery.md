@@ -1,9 +1,9 @@
 ---
-title: Physiotherapy Prostate Surgery
+title: Physiotherapy and Prostate Surgery
 subtitle: After prostatectomy men usually need to purposely use their pelvic floor muscles to control their bladder. It is easier to learn how to use the muscles before having the surgery - knowing where they are and how to use them correctly will assist with your recovery.
 weight: 2
 layout: service
-description: Physiotherapy Pre and Post Prostate Surgery
+description: Physiotherapy and Prostate Surgery
 ---
 
 It is advised that men undergoing a radical prostatectomy should see a physiotherapist at least 6-8 weeks prior to surgery and again afterwards to learn about their pelvic floor and get it working well again after surgery. Some degree of incontinence is expected after surgery as there can be removal of or damage to the urinary sphincters and pelvic floor muscles.
