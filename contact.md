@@ -12,7 +12,7 @@ Ulverstone Clinic (Located at ELPE Health)
 8 Gollan Street, Ulverstone TAS 7315
 
 **Email:** [info@nwp.health](mailto:info@nwp.health)  
-**Phone:** [03 6425 6901](tel:+6164256901)  
+**Phone:** [03 6425 6901](tel:+61364256901)  
 **Fax:** [03 6425 7667](tel:+61364257667)
 
 | Day       | Opening Hours   |
