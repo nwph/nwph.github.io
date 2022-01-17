@@ -2,7 +2,7 @@
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
     <div class="row">
       <div class="col-lg-6 mb-2">
-        <h1>Take Back Control</h1>
+        <h3>Take Back Control</h3>
         <p class="lead">Whether your issue is pain, leakage, weakness or tightness, we can provide you the tools to manage your condition.</p>
         <a href="/contact/" class="button">Book Appointment</a>
       </div>
@@ -25,6 +25,9 @@
             <li class="{% if item.url == page.url %}active{% endif %}">
               <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
             </li>
+            {% endfor %}
+            {% for item in site.data.social %}
+            <li><a href="{{ item.link }}" target="blank"><img src="{{ item.image | relative_url }}" title="{{ item.name }}" alt="{{ item.name }}" /></a></li>
             {% endfor %}
           </ul>
           {% include social.html %}
