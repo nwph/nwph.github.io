@@ -11,6 +11,9 @@ main:
   - name: "Contact"
     url: "/contact/"
     weight: 4
+  - name: "Book Appointment"
+    url: "/book-appointment/"
+    weight: 5
 
 footer:
   - name: "Home"
@@ -25,9 +28,12 @@ footer:
   - name: "Information"
     url: "/information/"
     weight: 4
+  - name: "Book Appointment"
+    url: "/book-appointment/"
+    weight: 5
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 6
   - name: "Privacy"
     url: "/privacy-policy/"
-    weight: 6
+    weight: 7
