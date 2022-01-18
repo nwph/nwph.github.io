@@ -25,7 +25,7 @@ footer:
   - name: "Appointment Information"
     url: "/information/"
     weight: 4
-  - name: "Book Appointment"
+  - name: "Book"
     url: "/book-appointment/"
     weight: 5
   - name: "Contact"
