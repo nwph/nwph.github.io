@@ -6,7 +6,7 @@ layout: service
 description: At North West Pelvic Health we can help you safely regain your strength and fitness after giving birth. It is important to recondition your pelvic floor and abdominal muscles after pregnancy.
 ---
 
-In particular abdominal separation (diastasis recti) and pelvic floor issues may need to be assessed and exercise programs undertaken to recondition these muscles.
+In particular abdominal separation (diastasis recti) and pelvic floor issues may need to be assessed and [exercise programs](/services/pelvic-floor/) undertaken to recondition these muscles.
 
 ## Postpartum pelvic floor issues
 
@@ -18,7 +18,7 @@ It is important to recondition your pelvic floor muscles after having a baby, th
 
 ## Tight pelvic floor after birth
 
-After having a baby your pelvic floor may be tight and cause pain with intercourse. This can also affect bladder and bowel function. You may need to do pelvic floor relaxation exercises to address this
+After having a baby your pelvic floor may be tight and cause [pain with intercourse](/services/painful-sex/). This can also affect bladder and bowel function. You may need to do pelvic floor relaxation exercises to address this
 
 ### Abdominal separation/Diastisis Recti symptoms
 
@@ -30,4 +30,4 @@ Diastasis recti is a normal function of pregnancy, the connective tissue in the 
 
 ### How can physio help me after having a baby?
 
-Physio can help after having your baby by assessing your pelvic floor, abdominal muscles and any other muscle or joint issues that you may have after being pregnant and giving birth. Advice and exercise programs can be provided to address any reconditioning that is required to meet your postpartum goals.
+Physio can help after having your baby by [assessing your pelvic floor](/book-appointment/), abdominal muscles and any other muscle or joint issues that you may have after being pregnant and giving birth. Advice and exercise programs can be provided to address any reconditioning that is required to meet your postpartum goals.

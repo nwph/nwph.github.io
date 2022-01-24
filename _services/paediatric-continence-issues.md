@@ -9,7 +9,7 @@ weight: 6
 
 ## How common is incontinence in children?
 
-It is normal for children younger than 3 to not have complete control over their bladder. Most children can control their bladder and bowel by 4 years of age. About 10% of children 5 -6 years old experience daytime wetting, this number tends to decrease with age.
+It is normal for children younger than 3 to not have complete control over their bladder. Most children can control their [bladder and bowel](/services/bladder-and-bowel/) by 4 years of age. About 10% of children 5 -6 years old experience daytime wetting, this number tends to decrease with age.
 
 ## Children with incontinence of the bowel
 
@@ -29,7 +29,7 @@ Bed wetting happens when the bladder empties when asleep. This can be worrying f
 
 ### Physiotherapy for Children’s continence
 
-After thorough assessment including use of real-time ultrasound if applicable, physio treatment may include the following:
+After [thorough assessment](/book-appointment/) including use of real-time ultrasound if applicable, physio treatment may include the following:
 
 - Education for child and parent
 - Teaching correct bladder and bowel habits

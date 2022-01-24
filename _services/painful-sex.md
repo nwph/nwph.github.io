@@ -9,7 +9,7 @@ description: Did you know physiotherapy can help with painful sex? Pain with int
 
 Pain with intercourse can affect women of all ages but young women are most likely to have symptoms. Post menopausal women can have pain due to tissue changes, increased dryness and narrowing of the opening of the vagina.
 
-Postnatal women can often experience pain with intercourse and those that deliver by c-section are three times more likely to experience this. Chronic pelvic pain and associated medical conditions can also cause painful intercourse. Pain with sex can understandably cause relationship problems and have negative emotional effects, so is best addressed sooner rather than later.
+[Postnatal women](/services/post-natal-checks/) can often experience pain with intercourse and those that deliver by c-section are three times more likely to experience this. Chronic pelvic pain and associated medical conditions can also cause painful intercourse. Pain with sex can understandably cause relationship problems and have negative emotional effects, so is best addressed sooner rather than later.
 
 ## Dyspareunia
 
@@ -29,7 +29,7 @@ Dyspareunia can often start with a physical cause (e.g thrush) but then persists
 
 ### Physiotherapy for painful sex
 
-Understanding what causes your symptoms is an important part of what your physio will do. Treatment options can include:
+Understanding what causes your symptoms is an important part of what your physio will do. [Treatment options](/information/) can include:
 
 - Education about pain and the brain
 - Pelvic floor relaxation techniques

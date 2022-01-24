@@ -21,4 +21,4 @@ Continue to feed your baby/express milk from the affected breast. Use warmth ove
 
 ### Physiotherapy for Mastitis
 
-Physiotherapy treatment may involve therapeutic ultrasound to help reduce inflammation, kinesio taping, and advice about home management.
+[Physiotherapy treatment](/book-appointment/) may involve therapeutic ultrasound to help reduce inflammation, kinesio taping, and advice about home management.

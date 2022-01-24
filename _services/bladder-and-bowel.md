@@ -8,7 +8,7 @@ description: Physiotherapy can help with incontinence, pelvic pain, difficulty i
 
 Bladder or bowel incontinence means a problem holding your urine or stool, an accidental leakage. Some conditions like dementia can cause bladder and bowel problems due to forgetting where the toilet is or how to take off clothes.
 
-Bladder and bowel issues may be due to the pelvic floor muscles but can also be due to many other conditions including bladder, bowel or prostate cancer, Crohn’s disease or colitis, cystitis, IBS, pelvic organ prolapse or urinary tract infections. 
+Bladder and bowel issues may be due to the pelvic floor muscles but can also be due to many other conditions including bladder, bowel or prostate cancer, Crohn’s disease or colitis, cystitis, IBS, [pelvic organ prolapse](/services/prolapse-management/) or urinary tract infections. 
 
 ## Bladder and bowel dysfunction symptoms
 
@@ -16,7 +16,7 @@ Bladder or bowel dysfunction symptoms include involuntary loss of urine or stool
 
 ## What causes you to lose control of your bladder and bowel?
 
-Causes of bladder and bowel incontinence can include damage to nerves, holding urine for too long, having an overactive bladder, having diarrhea or constipation, vaginal childbirth, pelvic organ prolapse, side effects of medicine, stress, neurological conditions (MS, stroke, Alzhemiers) diabetes, infection or problems with the pelvic floor.
+Causes of bladder and bowel incontinence can include damage to nerves, holding urine for too long, having an overactive bladder, having diarrhea or constipation, vaginal childbirth, pelvic organ prolapse, side effects of medicine, stress, neurological conditions (MS, stroke, Alzhemiers) diabetes, infection or [problems with the pelvic floor](/services/pelvic-floor/).
 
 In a normally functioning bladder and bowel, nerves tell certain muscles when to tighten and when to relax. The brain tells the nerves via the spinal cord what to do. Sphincter muscles control the holding of urine or stool and the nerves tell them when to contract and when to relax. 
 
@@ -38,4 +38,4 @@ Overactive bladder may be able to be managed with behavioural strategies (bladde
 
 ### Physiotherapy treatment for bladder and bowel issues
 
-Pelvic floor exercises (kegels) can strengthen the sphincter muscles and pelvic floor to give you better control  over your bladder and bowel. Education about good bladder and bowel health can be helpful, including diet and lifestyle changes, regular exercise and practicing good toileting habits. Your physio can educate you regarding programs of timed voiding and bladder training including techniques to defer the urge to go to the toilet.
+Pelvic floor exercises (kegels) can strengthen the sphincter muscles and pelvic floor to give you better control over your bladder and bowel. Education about good bladder and bowel health can be helpful, including diet and lifestyle changes, regular exercise and practicing good toileting habits. [Your physio](/about/) can educate you regarding programs of timed voiding and bladder training including techniques to defer the urge to go to the toilet.

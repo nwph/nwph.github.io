@@ -22,6 +22,6 @@ Pubic symphysis pain is another name for pelvic girdle pain that is felt at the 
 
 ### Physiotherapy for pregnancy related pain
 
-Pelvic girdle pain can resolve or be managed through pregnancy with physio to make sure the joints in the pelvis, spine and hips are moving normally. You may need exercises to strengthen your pelvic floor, back, tummy and hip muscles. Your physio may prescribe crutches or pelvic braces/belts if needed.
+Pelvic girdle pain can resolve or be [managed through pregnancy with physio](/about/) to make sure the joints in the pelvis, spine and hips are moving normally. You may need [exercises to strengthen your pelvic floor](/services/pelvic-floor/), back, tummy and hip muscles. Your physio may prescribe crutches or pelvic braces/belts if needed.
 
-Physiotherapy can assist with pregnancy related low back pain by providing education, manual therapy, exercise therapy and taping.
+[Physiotherapy can assist](/book-appointment/) with pregnancy related low back pain by providing education, manual therapy, exercise therapy and taping.

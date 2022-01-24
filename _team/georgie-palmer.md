@@ -8,4 +8,4 @@ weight: 1
 layout: default
 ---
 
-Georgie has a special interest in treating pelvic health conditions. She is passionate about empowering clients to improve their quality of life.
+Georgie has a special interest in [treating pelvic health](/services/) conditions. She is passionate about empowering clients to improve their quality of life.

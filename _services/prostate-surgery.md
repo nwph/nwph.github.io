@@ -10,7 +10,7 @@ It is advised that men undergoing a radical prostatectomy should see a physiothe
 
 ## Pelvic floor exercises before prostate surgery
 
-Boost your confidence to learn how to exercise your pelvic floor and give you something to focus on during the wait for surgery. There are a few ways men can correctly identify the correct muscles:
+Boost your confidence to learn how to [exercise your pelvic floor](/services/pelvic-floor/) and give you something to focus on during the wait for surgery. There are a few ways men can correctly identify the correct muscles:
 
 - Stopping the flow of your wee midway through emptying your bladder
 - Visualising the penis draw in and scrotum lift up using a mirror
@@ -23,4 +23,4 @@ It is important you do not perform pelvic floor exercises while your catheter is
 
 ### Getting back into shape after prostatectomy 
 
-Performing pelvic floor exercises before and after surgery is vital to your recovery as these muscles help you control your bladder and bowel. To return to normal activity, you will need to be sensible and follow a graduated exercise program. This can be guided by your surgeon and/or physio, walking is a good place to start. Often men get leakage when returning to higher intensity exercise and so may require more work on their pelvic floor before they can reach their activity goals.
+Performing pelvic floor exercises before and after surgery is vital to your recovery as these muscles help you control your bladder and bowel. To return to normal activity, you will need to be sensible and follow a [graduated exercise program](/services/). This can be guided by your surgeon and/or physio, walking is a good place to start. Often men get leakage when returning to higher intensity exercise and so may require more work on their pelvic floor before they can reach their activity goals.

@@ -6,7 +6,7 @@ layout: service
 description: Learn how to manage your prolapse at North West Pelvic Health. Vaginal prolapse is very common, over half of women over the age of 50 have some degree of prolapse.
 ---
 
-Prolapse happens when ligament and connective tissues (or ‘fascia’) stretch and no longer support the pelvic organs well. In combination with a weak pelvic floor, the pelvic organs may bulge into the vagina. 
+Prolapse happens when ligament and connective tissues (or ‘fascia’) stretch and no longer support the pelvic organs well. In combination with a [weak pelvic floor](/services/pelvic-floor/), the pelvic organs may bulge into the vagina. 
 
 ## Prolapse symptoms
 
@@ -19,7 +19,7 @@ Prolapse is when the bladder, uterus or bowel protrudes into the vagina. Symptom
 - Recurring urinary tract infections (UTIs)
 - Splinting/digitation - needing to digitally push the prolapse up to be able to urinate or defecate
 - Low back ache similar to period pain
-- Bladder/bowel dysfunction (including difficulty emptying the bladder/bowel and constipation)
+- [Bladder/bowel dysfunction](/services/bladder-and-bowel/) (including difficulty emptying the bladder/bowel and constipation)
 - Difficulty with sexual intercourse (pain or less sensation)
 
 ## Types of prolapse 
@@ -32,11 +32,11 @@ Prolapse is when the bladder, uterus or bowel protrudes into the vagina. Symptom
 
 ## What causes a prolapse?
 
-The biggest cause of prolapse is pregnancy and birth, however other factors such as family history, lifestyle and certain medical conditions can lead to prolapse. You are more likely to have a vaginal prolapse is you have been through menopause, if you have had more than one baby, if you were pushing for a long time when birthing your baby, you are overweight, you have fibroids or a pelvic tumour or if you have had previous prolapse repair surgery. 
+The biggest cause of prolapse is [pregnancy and birth](/services/post-natal-checks/), however other factors such as family history, lifestyle and certain medical conditions can lead to prolapse. You are more likely to have a vaginal prolapse is you have been through menopause, if you have had more than one baby, if you were pushing for a long time when birthing your baby, you are overweight, you have fibroids or a pelvic tumour or if you have had previous prolapse repair surgery. 
 
 ### Prolapse treatment
 
-Mild cases of prolapse do not require treatment. For symptomatic prolapses, treatment options include pelvic floor muscle exercises (see our section on pelvic floor exercise for prolapse), simple lifestyle modifications, a supportive device (pessary) or you may be recommended surgical treatment. 
+Mild cases of prolapse do not require treatment. For symptomatic prolapses, [treatment options](/book-appointment/) include pelvic floor muscle exercises (see our section on pelvic floor exercise for prolapse), simple lifestyle modifications, a supportive device (pessary) or you may be recommended surgical treatment. 
 
 ### Physiotherapy and prolapse
 
