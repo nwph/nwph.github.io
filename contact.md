@@ -17,7 +17,7 @@ Ulverstone Clinic (Located at ELPE Health)
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
-| Monday    | By Appointment  |
+| Monday    | 09:00 - 16:00   |
 | Tuesday   | By Appointment  |
 | Wednesday | 09:00 - 16:00   |
 | Thursday  | By Appointment  |
