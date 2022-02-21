@@ -32,6 +32,7 @@ $sub-footer-text-color: $white;
 @import "bootstrap/bootstrap-reboot";
 @import "bootstrap/bootstrap-grid";
 @import "bootstrap/forms";
+@import "bootstrap/nav";
 // @import 'bootstrap/bootstrap'; // Uncomment this line to import the entire Bootstrap library
 
 // Libraries
@@ -72,6 +73,16 @@ body {
 }
 
 iframe {
-  border-radius: 5px;
-  border: 2px solid #d5ebec;
+  border: 1px solid #dee2e6;
+  border-top: none;
+}
+
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+  color: #495057;
+  background-color: #FAFAFA;
+  border-color: #dee2e6 #dee2e6 #FAFAFA;
+}
+
+.nav-tabs a {
+  font-size: 24px;
 }

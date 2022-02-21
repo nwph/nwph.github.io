@@ -20,42 +20,114 @@ bodyClass: "page-contact"
       <div class="col-md-6">
           <div class="content">
               {{content}}
+              <form action="https://formspree.io/f/mwkypezz" method="POST" class="mt-5">
+                <div class="form-row">
+                  <div class="col">
+                    <div class="form-group">
+                      <label for="name">Full Name</label>
+                      <input type="text" class="form-control" id="name" name="name" aria-describedby="nameHelp" placeholder="Jane Doe">
+                    </div>
+                  </div>
+                  <div class="col">
+                    <div class="form-group">
+                      <label for="email">Email Address</label>
+                      <input type="email" class="form-control" id="email" name="email" aria-describedby="emailHelp" placeholder="you@example.com">
+                    </div>
+                  </div>
+                </div>
+                <div class="form-row">
+                  <div class="col">
+                    <div class="form-group">
+                      <label for="phone">Phone</label>
+                      <input type="text" class="form-control" id="phone" name="phone" aria-describedby="phoneHelp" placeholder="0438 987 123">
+                    </div>
+                  </div>
+                  <div class="col">
+                    <div class="form-group">
+                      <label for="find">How Did You Find Us?</label>
+                      <select class="form-control" id="find" name="find" aria-describedby="findHelp">
+                        <option disabled selected value=""> -- Select Option -- </option>
+                        <option value="Google">Google</option>
+                        <option value="Bing">Bing</option>
+                        <option value="DuckDuckGo">DuckDuckGo</option>
+                        <option value="Facebook">Facebook</option>
+                        <option value="Instagram">Instagram</option>
+                        <option value="Other">Other</option>
+                      </select>
+                    </div>
+                  </div>
+                </div>
+                
+                
+                
+                <div class="form-group">
+                  <label for="message">Message</label>
+                  <textarea class="form-control" id="message" name="message" rows="5" placeholder="I need help with..."></textarea>
+                </div>
+                <button type="submit" class="button">Send Email</button>
+              </form>
           </div> 
       </div>
-      <div class="col-md-6 d-flex align-items-center">
-        <div class="content">
-          <form action="https://formspree.io/f/mwkypezz" method="POST">
-            <div class="form-group">
-              <label for="name">Full Name</label>
-              <input type="text" class="form-control" id="name" name="name" aria-describedby="nameHelp" placeholder="Jane Doe">
-            </div>
-            <div class="form-group">
-              <label for="email">Email Address</label>
-              <input type="email" class="form-control" id="email" name="email" aria-describedby="emailHelp" placeholder="you@example.com">
-              <small id="emailHelp" class="form-text text-muted">Your private information is confidential and will never be shared with 3rd parties.</small>
-            </div>
-            <div class="form-group">
-              <label for="phone">Phone</label>
-              <input type="text" class="form-control" id="phone" name="phone" aria-describedby="phoneHelp" placeholder="0438 987 123">
-            </div>
-            <div class="form-group">
-              <label for="find">How Did You Find Us?</label>
-              <select class="form-control" id="find" name="find" aria-describedby="findHelp">
-                <option disabled selected value=""> -- Select Option -- </option>
-                <option value="Google">Google</option>
-                <option value="Bing">Bing</option>
-                <option value="DuckDuckGo">DuckDuckGo</option>
-                <option value="Facebook">Facebook</option>
-                <option value="Instagram">Instagram</option>
-                <option value="Other">Other</option>
-              </select>
-            </div>
-            <div class="form-group">
-              <label for="message">Message</label>
-              <textarea class="form-control" id="message" name="message" rows="5" placeholder="I need help with..."></textarea>
-            </div>
-          <button type="submit" class="button">Send Email</button>
-        </form>
+      <div class="col-md-6 pl-5">
+        <div class="content">          
+            <h3>Ulverstone Clinic</h3>
+              Located at ELPE Health<br>
+              8 Gollan Street, Ulverstone TAS 7315
+            <table>
+              <tbody>
+                <tr>
+                  <td><strong>Monday</strong></td>
+                  <td><strong>09:00 - 16:00</strong></td>
+                </tr>
+                <tr>
+                  <td>Tuesday</td>
+                  <td>By Appointment</td>
+                </tr>
+                <tr>
+                  <td><strong>Wednesday</strong></td>
+                  <td><strong>09:00 - 16:00</strong></td>
+                </tr>
+                <tr>
+                  <td>Thursday</td>
+                  <td>By Appointment</td>
+                </tr>
+                <tr>
+                  <td>Friday</td>
+                  <td>By Appointment</td>
+                </tr>
+              </tbody>
+            </table>
+
+            <hr>
+
+          <h3>Wynyard Clinic</h3>
+          Located at Wynyard Medical Centre<br>
+          138 Goldie Street, Wynyard TAS 7325
+
+          <table>
+          <tbody>
+            <tr>
+              <td>Monday</td>
+              <td>By Appointment</td>
+            </tr>
+            <tr>
+              <td>Tuesday</td>
+              <td>By Appointment</td>
+            </tr>
+            <tr>
+              <td>Wednesday</td>
+              <td>By Appointment</td>
+            </tr>
+            <tr>
+              <td>Thursday</td>
+              <td>By Appointment</td>
+            </tr>
+            <tr>
+              <td><strong>Friday</strong></td>
+              <td><strong>09:00 - 16:00</strong></td>
+            </tr>
+          </tbody>
+          </table>
         </div> 
     </div>
   </div>
