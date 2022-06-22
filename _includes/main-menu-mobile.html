@@ -6,5 +6,8 @@
       <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
     </li>
     {% endfor %}
+    <li class="{% if item.url == page.url %}active{% endif %}">
+      <a href="/book-appointment/">Appointments</a>
+    </li>
   </ul>
 </div>

@@ -33,7 +33,7 @@ $sub-footer-text-color: $white;
 @import "bootstrap/bootstrap-grid";
 @import "bootstrap/forms";
 @import "bootstrap/nav";
-// @import 'bootstrap/bootstrap'; // Uncomment this line to import the entire Bootstrap library
+@import "bootstrap/buttons";
 
 // Libraries
 @import "libraries/hamburgers/hamburgers";
@@ -46,7 +46,6 @@ $sub-footer-text-color: $white;
 @import "components/main-menu";
 @import "components/main-menu-mobile";
 @import "components/hamburger";
-@import "components/buttons";
 @import "components/call";
 @import "components/title";
 @import "components/content";
@@ -85,4 +84,22 @@ iframe {
 
 .nav-tabs a {
   font-size: 24px;
+}
+
+.btn {
+  padding: 10px 20px 5px 20px;
+  color: $white;
+  font-weight: 700;
+}
+
+.main-menu .btn {
+  margin-left: 10px;
+}
+
+.main-menu .btn a {
+  padding: 0;
+  color: $white;
+  @include hover {
+    color: $white;
+  }
 }

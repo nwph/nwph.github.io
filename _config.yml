@@ -19,18 +19,6 @@ collections:
   team:
     output: true
 
-defaults:
-  - scope:
-      path: ""
-      type: "services"
-    values:
-      layout: "service"
-  - scope:
-      path: ""
-      type: "team"
-    values:
-      layout: "team"
-
 sass:
   indentWidth: 4
   style: compressed # possible values: nested expanded compact compressed
