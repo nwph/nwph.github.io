@@ -2,7 +2,7 @@
 title: "Georgie Palmer"
 image: "images/team/georgie-palmer.jpg"
 jobtitle: "Director/Physiotherapist"
-linkedinurl: "https://www.linkedin.com/"
+linkedinurl: "https://www.linkedin.com/in/georgie-palmer-5374b856"
 promoted: true
 weight: 1
 layout: default
