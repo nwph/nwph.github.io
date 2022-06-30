@@ -15,7 +15,7 @@ At North West Pelvic Health we believe all people, regardless of their location,
 
 Pelvic health issues can significantly affect quality of life and unfortunately many people do not or cannot access help. We value providing quality, evidence based care in a comfortable and safe environment.
 
-### Georgie Palmer - Director/Physiotherapist
+### Georgie Palmer - Physiotherapist
 
 Georgie grew up on the North West coast of Tasmania before moving to the mainland to study a Bachelor of Physiotherapy at La Trobe University. She subsequently completed her Post Graduate Certificate in Exercise Science (Strength and Conditioning) from Edith Cowan University. She has worked at locations across Queensland and Tasmania before making the move to start her business, North West Pelvic Health.
 

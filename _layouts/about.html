@@ -22,7 +22,7 @@ bodyClass: "page-teams"
                 {{content}}
                 {% assign promoted_teams = site.team | where: "promoted", true | sort: "weight" %}
                 {% for team in promoted_teams %}                    
-                    <div class="team team-summary team-summary-large mt-5">
+                    <div class="team team-summary team-summary-large mt-3">
                         {% if team.image %}
                         <div class="team-image">
                             <img width="90" height="90" alt="{{ team.title }}" class="img-fluid mb-2" src="{{ team.image | relative_url }}" />
@@ -38,6 +38,16 @@ bodyClass: "page-teams"
                         <div class="team-content">{{ team.content }}</div>
                     </div>
                 {% endfor %}
+                <h3>Sammy Stanton – Dietitian</h3>
+                <p>Sammy has been working as an accredited practicing dietitian and nutritionist for 6 years across a wide variety of settings including private practice in NSW, drug and alcohol rehabilitation, sports nutrition, mining camps, education department,  NDIS, inpatient and outpatient hospital services and is currently a senior clinical dietitian. She also represents the North West Coast on the Eat Well Tas board.</p>
+                <p>Sammy has a special interest in womens health with a weight neutral, health at every size approach helping people improve their relationship with food and body image.</p>
+                <ul>
+                    <li>IBS, food intolerances and management</li>
+                    <li>Gut Health/Constipation</li>
+                    <li>Performance nutrition</li>
+                    <li>Disordered eating</li>
+                </ul>
+                <p>Working alongside Georgie Palmer in <a href="/book-appointment/">womens health on Mondays</a>.</p>
             </div> 
         </div>
     </div>
